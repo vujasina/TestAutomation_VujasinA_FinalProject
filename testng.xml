@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Vuja/Job/Courses/Kompletan kurs Automatizacije - QAItive/Projects/TestAutomation_VujasinA_FinalProject">
+        <classes>
+            <class name="tests.BasketTest">
+            </class>
+            <class name="tests.CategoriesTest">
+            </class>
+            <class name="tests.WishListTest">
+            </class>
+            <class name="tests.LoginTest">
+            </class>
+        </classes>
+    </test>
+</suite>
